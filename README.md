@@ -9,5 +9,5 @@ American high school students[1].
 
 
 
-Resources
+Resources:
 [1] Wikipedia, MNIST database, https://en.wikipedia.org/wiki/MNIST_database
